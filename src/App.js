@@ -36,7 +36,7 @@ onSubmit = (event) => {
     <div>
     <div className="header">
       <div className="wrapper">
-        <img src="https://pbs.twimg.com/profile_images/829431121586880513/UGqLggLr.jpg" />
+        <img src="https://pbs.twimg.com/profile_images/829431121586880513/UGqLggLr.jpg" alt="road to hire" />
         <p className="title">Road to Hire</p>
       </div>
     </div>
